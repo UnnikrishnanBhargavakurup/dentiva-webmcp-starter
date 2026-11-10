@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.data/
+*.tsbuildinfo
+.env*
+!.env.example
+
+# Local operating-system files and test output
+.DS_Store
+coverage/
+playwright-report/
+test-results/
+*.log
